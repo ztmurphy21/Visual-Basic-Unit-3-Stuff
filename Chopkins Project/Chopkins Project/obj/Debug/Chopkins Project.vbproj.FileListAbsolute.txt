@@ -1,0 +1,11 @@
+D:\College\Visual Basic\Visual-Basic-Unit-3-Stuff\Chopkins Project\Chopkins Project\bin\Debug\Chopkins Solution.exe.config
+D:\College\Visual Basic\Visual-Basic-Unit-3-Stuff\Chopkins Project\Chopkins Project\bin\Debug\Chopkins Solution.exe
+D:\College\Visual Basic\Visual-Basic-Unit-3-Stuff\Chopkins Project\Chopkins Project\bin\Debug\Chopkins Solution.pdb
+D:\College\Visual Basic\Visual-Basic-Unit-3-Stuff\Chopkins Project\Chopkins Project\bin\Debug\Chopkins Solution.xml
+D:\College\Visual Basic\Visual-Basic-Unit-3-Stuff\Chopkins Project\Chopkins Project\obj\Debug\Chopkins Project.vbprojResolveAssemblyReference.cache
+D:\College\Visual Basic\Visual-Basic-Unit-3-Stuff\Chopkins Project\Chopkins Project\obj\Debug\Chopkins_Project.frmMain.resources
+D:\College\Visual Basic\Visual-Basic-Unit-3-Stuff\Chopkins Project\Chopkins Project\obj\Debug\Chopkins_Project.Resources.resources
+D:\College\Visual Basic\Visual-Basic-Unit-3-Stuff\Chopkins Project\Chopkins Project\obj\Debug\Chopkins Project.vbproj.GenerateResource.Cache
+D:\College\Visual Basic\Visual-Basic-Unit-3-Stuff\Chopkins Project\Chopkins Project\obj\Debug\Chopkins Solution.exe
+D:\College\Visual Basic\Visual-Basic-Unit-3-Stuff\Chopkins Project\Chopkins Project\obj\Debug\Chopkins Solution.xml
+D:\College\Visual Basic\Visual-Basic-Unit-3-Stuff\Chopkins Project\Chopkins Project\obj\Debug\Chopkins Solution.pdb
